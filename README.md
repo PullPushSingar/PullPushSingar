@@ -6,6 +6,6 @@
 <img width=450 height=170 align="center" alt="PullPushSingar" src="https://github-readme-stats.vercel.app/api?username=PullPushSingar&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
 </a><br/>
 <a href="https://github.com/PullPushSingar">
-<img align="center" alt="PullPushSingar" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PullPushSingar&langs_count=6&theme=tokyonight&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+<img align="center" alt="PullPushSingar" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PullPushSingar&langs_count=6&theme=tokyonight&bg_color=0D1117&hide_border=true&count_private=true" />
 </a>
 
