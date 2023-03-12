@@ -1,6 +1,5 @@
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PullPushSingar&exclude_repo=github-readme-stats,TetrisOOPProject)](https://github.com/PullPushSingar/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PullPushSingar&langs_count=8)](https://github.com/PullPushSingar/github-readme-stats)
 
