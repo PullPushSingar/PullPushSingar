@@ -1,9 +1,11 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PullPushSingar&langs_count=8)](https://github.com/PullPushSingar/github-readme-stats)
-
-
-  <img align="left" alt="PullPushSingar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PullPushSingar&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+</a>
+<a href="https://github.com/PullPushSingar">
+<img width=450 height=170 align="center" alt="PullPushSingar" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PullPushSingar&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&count_private=false" />
+</a><br/>
+<a href="https://github.com/PullPushSingar">
+<img align="center" alt="PullPushSingar" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PullPushSingar&theme=tokyonight&layout=compact&bg_color=0D1117&hide_border=true&count_private=false" />
+</a>
 
